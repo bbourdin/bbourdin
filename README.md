@@ -7,7 +7,7 @@ See **resume-as-code, leveraging DevOps**: Automatically built from [source code
 [Markdown](https://github.com/bbourdin/resume/blob/gh-pages/Benoit-Bourdin-resume.md) or [Word](https://bbourdin.github.io/resume/Benoit-Bourdin-resume.docx).
 
 ## Contributions
-Most of my recent contributions are related to my work at DXC, which are visible to DXC employees (only) on my [DXC GitHub profile](https://github.dxc.com/bbourdin).
+Most of my recent contributions (about 1,500/year) are related to my work and innersourcing at DXC, which are visible to DXC employees (only) on my [DXC GitHub profile](https://github.dxc.com/bbourdin).
 
 ## Contact
 
